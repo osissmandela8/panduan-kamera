@@ -68,7 +68,7 @@ karena lens mountnya dslr dan mirorless beda, untuk memasang lensa ef di kamera 
 
 lumayan simple. untuk seri alpha 4 digit = aps-c, 1 digit= full frame. ada juga seri zv dan fx tapi kalian gak perlu terlalu khawatir tentang ini,
 
-<aside style="padding: 1.5rem; margin-bottom: 2rem; border: 1px solid;">
+<aside>
 🗣
 
 aku mau nambahin sudut pandangku aja disini sih. aku lebih suka canon mirorless daripada yang dslr kalau beli (bukan nyewa karena sewa adapter di owl setara sewa lensa jir). di eos m itu ada yang ada micnya, ada yg engga. tapi yang konsisten di eos m itu processor dan sensornya itu lebih baru daripada yang dslr untuk harga yang sama (apalagi kalo yg gak ada mic jacknya)
@@ -115,7 +115,7 @@ _secara umum harusnya kalian memang pengen belajar tentang kamera untuk memaksim
 2. **pahami 180 degree rule shutter speed (ss vs fps)**
 3. **pahamin focal length**
 
-   <iframe width="500" height="250" src="https://www.youtube.com/embed/TKpu8-T1-hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   [https://www.youtube.com/watch?v=TKpu8-T1-hg](https://www.youtube.com/watch?v=TKpu8-T1-hg)
 
 4. lebih ke saran… 1080p25 vs 720p50 mending ngambil 720p50, pas bikin aftermovie itu sering banget footagenya di atur kecepatan 0.5x. kalau ngerekam langsung 50/60fps itu gerakannya jauh lebih natural dan proses editing lebih cepat
 5. matikan stabilisasi dalam beberapa skenario tertentu. misalnya lagi penampilan band terus para penonton turun. untuk memberikan atmosfir yang lebih realistik, jauh lebih baik untuk mematikan stabilisasi.
@@ -129,7 +129,7 @@ _secara umum harusnya kalian memang pengen belajar tentang kamera untuk memaksim
 
 untuk memaksimalkan dynamic range, pada kamera canon kita bisa ngakalin log profile dengan cara install color profile cinestyle…
 
-<iframe width="500" height="250" src="https://www.youtube.com/embed/QF7Yj9c8HNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=QF7Yj9c8HNc](https://www.youtube.com/watch?v=QF7Yj9c8HNc)
 
 buat download color profilenya di website technicolor, kamu harus pake wayback machine. pokonya di aplikasi canon kamu cari yang color profile
 
@@ -175,13 +175,13 @@ https://www.apple.com/final-cut-pro/docs/Apple_ProRes.pdf ← coba kalian lihat 
 
 _pr nih… untuk resolusi 4k, memang diperlukan eksperimen dengan codec sih, coba2 aja hevc vs h264 (aku gak yakin kalian bakal mau pake prores😿). kalo 1080p mah hevc aman2 aja (kalo dari pengalamanku di android wajib 4k sih, 1080p oversharpennya gak ketolong, cuma aku belum pernah eksperimen tentang ini di iphone.)_
 
- <iframe width="500" height="250" src="https://www.youtube.com/embed/Gcy35RLo8_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[https://youtu.be/Gcy35RLo8_0?si=pXwLfAbzJiCev4U3](https://youtu.be/Gcy35RLo8_0?si=pXwLfAbzJiCev4U3)
 
 untuk maksimalin hasil video iphone mending download aplikasi kamera yang ada kontrol exposurenya. dari pengamatanku yang paling bagus blackmagic kayaknya. walau sekarang apple udah ngeluarin final cut camera, ~~tapi blackmagic sejauh ini salah satunya yang bisa ngerekam applelog pake hevc.~~
 
 … sayangnya di iphone gak ada aplikasi kamera yang nunjukin exposure value, mentok2 cuma ada histogram kayak di blackmagic.
 
-<aside style="padding: 1.5rem; margin-bottom: 2rem; border: 1px solid;">
+<aside>
 🗣
 
 https://www.youtube.com/shorts/TSqy_5yOwqU
@@ -209,7 +209,7 @@ beberapa saran pakai aplikasi kamera iphone bawaan (yang bisa mbok ajarin temenm
 
    kalian cukup bilang aja ke temen kalian, turunin exposure sampai apa yang ada di display sesuai sama yang di real life. biasanya kalo agak gelap -1, kalo bener2 gak ada lampu -2.
 
-<aside style="padding: 1.5rem; margin-bottom: 2rem; border: 1px solid;">
+<aside>
 🗣
 
 saranku aja, kalau pake iphone bener2 manfaatin kelebihan iphone yaitu:
@@ -228,7 +228,7 @@ di android juga ada aplikasi kamera yang lebih advanced, dari pengalamanku mcpro
 
 1. pahami basic color correction (wajib kalau kamu berencana pake log), pahami apa bedanya black dan shadow, white dan highlight. pahami tentang s curve, bagaimana manusia melihat cahaya vs kamera
 
-   <iframe width="500" height="250" src="https://www.youtube.com/embed/oKzGkWhIisc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   [https://www.youtube.com/watch?v=oKzGkWhIisc](https://www.youtube.com/watch?v=oKzGkWhIisc)
 
 2. pahami color grading (optional, bisa pake filter capcut)
 3. pahami settingan export yang optimal untuk youtube dan instagram. codec wajib hevc sih, tapi settingan bitratenya yang agak riber nentuinnya
@@ -248,7 +248,7 @@ di android juga ada aplikasi kamera yang lebih advanced, dari pengalamanku mcpro
 
 ---
 
-<aside style="padding: 1.5rem; margin-bottom: 2rem; border: 1px solid;">
+<aside>
 🗣
 
 sebenernya bisa sih wak kalian bikin proker sekbid 9 berkelanjutan, kegiatannya kalian mengelola informasi tentang keterampilan kalian (semacam wiki gitu) yang perlu kalian turunin ke sekbid 9. tujuannya supaya sekbid 9 gak kroco kayak putra alamsyah😂
@@ -256,6 +256,8 @@ sebenernya bisa sih wak kalian bikin proker sekbid 9 berkelanjutan, kegiatannya 
 biar nanti gak mati kayak ocient😂, talentnya ilang langsung gak ada peminat💀
 
 </aside>
+
+minta tolong, link youtube yang berdiri sendiri dan diluar <aside> dibikinin jadi embed
 
 <img src="https://pbs.twimg.com/media/FDrj0QkXMAQpj85?format=jpg&name=large" alt="Tuxedo" width="500" height="250">
 
