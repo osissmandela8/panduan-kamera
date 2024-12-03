@@ -1,3 +1,5 @@
+# panduan kamera
+
 <style>
 aside {
   padding: 1.5rem;
@@ -5,8 +7,6 @@ aside {
   border: 1px solid;
 }
 </style>
-
-# panduan kamera
 
 hai hai halo!
 
