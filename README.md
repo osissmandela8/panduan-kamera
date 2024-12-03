@@ -1,13 +1,5 @@
 # panduan kamera
 
-<style>
-aside {
-  padding: 1.5rem;
-  margin-bottom: 2rem;
-  border: 1px solid;
-}
-</style>
-
 hai hai halo!
 
 <img src="https://media1.tenor.com/m/7x4wdZSCH8wAAAAd/the-voices-abatukam.gif" alt="Bisa gila!" width="500" height="250">
@@ -76,7 +68,7 @@ karena lens mountnya dslr dan mirorless beda, untuk memasang lensa ef di kamera 
 
 lumayan simple. untuk seri alpha 4 digit = aps-c, 1 digit= full frame. ada juga seri zv dan fx tapi kalian gak perlu terlalu khawatir tentang ini,
 
-<aside>
+<aside style="padding: 1.5rem; margin-bottom: 2rem; border: 1px solid;">
 🗣
 
 aku mau nambahin sudut pandangku aja disini sih. aku lebih suka canon mirorless daripada yang dslr kalau beli (bukan nyewa karena sewa adapter di owl setara sewa lensa jir). di eos m itu ada yang ada micnya, ada yg engga. tapi yang konsisten di eos m itu processor dan sensornya itu lebih baru daripada yang dslr untuk harga yang sama (apalagi kalo yg gak ada mic jacknya)
@@ -189,7 +181,7 @@ untuk maksimalin hasil video iphone mending download aplikasi kamera yang ada ko
 
 … sayangnya di iphone gak ada aplikasi kamera yang nunjukin exposure value, mentok2 cuma ada histogram kayak di blackmagic.
 
-<aside>
+<aside style="padding: 1.5rem; margin-bottom: 2rem; border: 1px solid;">
 🗣
 
 https://www.youtube.com/shorts/TSqy_5yOwqU
@@ -217,7 +209,7 @@ beberapa saran pakai aplikasi kamera iphone bawaan (yang bisa mbok ajarin temenm
 
    kalian cukup bilang aja ke temen kalian, turunin exposure sampai apa yang ada di display sesuai sama yang di real life. biasanya kalo agak gelap -1, kalo bener2 gak ada lampu -2.
 
-<aside>
+<aside style="padding: 1.5rem; margin-bottom: 2rem; border: 1px solid;">
 🗣
 
 saranku aja, kalau pake iphone bener2 manfaatin kelebihan iphone yaitu:
@@ -256,7 +248,7 @@ di android juga ada aplikasi kamera yang lebih advanced, dari pengalamanku mcpro
 
 ---
 
-<aside>
+<aside style="padding: 1.5rem; margin-bottom: 2rem; border: 1px solid;">
 🗣
 
 sebenernya bisa sih wak kalian bikin proker sekbid 9 berkelanjutan, kegiatannya kalian mengelola informasi tentang keterampilan kalian (semacam wiki gitu) yang perlu kalian turunin ke sekbid 9. tujuannya supaya sekbid 9 gak kroco kayak putra alamsyah😂
