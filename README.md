@@ -257,8 +257,6 @@ biar nanti gak mati kayak ocientğŸ˜‚, talentnya ilang langsung gak ada peminatğŸ
 
 </aside>
 
-minta tolong, link youtube yang berdiri sendiri dan diluar <aside> dibikinin jadi embed
-
 <img src="https://pbs.twimg.com/media/FDrj0QkXMAQpj85?format=jpg&name=large" alt="Tuxedo" width="500" height="250">
 
 - @tristanozaa
